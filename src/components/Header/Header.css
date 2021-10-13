@@ -1,0 +1,15 @@
+.header{
+background-color: blue;
+line-height: 50px;
+text-align: center;
+position: sticky;
+top: 0px;
+}
+.link{
+    text-decoration: none;
+    margin-right: 15px;
+ color: floralwhite;
+ font-weight: 600;
+ font-size: 20px;
+ padding: 10px;
+}

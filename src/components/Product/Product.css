@@ -1,0 +1,15 @@
+.product{
+    display: flex;
+    border: 1px solid white;
+    margin: 15px;
+    padding: 10px;
+   background-color: rgb(246, 235, 235);
+
+
+}
+
+ .image{
+    
+    height: 290px;
+    width: 200px;
+}

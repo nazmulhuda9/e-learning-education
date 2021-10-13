@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1023400063234,
+        "img": "https://universalbooksellers.com/wp-content/uploads/2020/02/9789353592066.jpg",
+        "book": "History",
+        "instructor": "Muhib khan ",
+        "fees": "3600 tk",
+        "discount": "30% discount for Bkash payment"
+    },
+    {
+        "id": 12348076634,
+        "img": "https://rukminim1.flixcart.com/image/416/416/jv2p6kw0/regionalbooks/h/h/r/up-board-text-book-english-class-12-by-vidya-prakashan-mandir-original-imafg23jmhbu3u5w.jpeg?q=70",
+        "book": "English",
+        "instructor": "Sadik Hassan ",
+        "fees": "3300 tk",
+        "discount": "15% discount for Bkash payment"
+    },
+    {
+        "id": 1234,
+        "img": "https://5.imimg.com/data5/HX/TD/MY-14344381/nootan-physics-xii-book-500x500.png",
+        "book": "Physics",
+        "instructor": "Nafis Intehab",
+        "fees": "4000 tk",
+        "discount": "10% discount for Bkash payment"
+    },
+    {
+        "id": 123443,
+        "img": "https://static.kopykitab.com/image/cache/data/nageen-prakashan/nagp149-300x380.jpg",
+        "book": "Chemistry",
+        "instructor": "Nusrat Ahmmed",
+        "fees": "4600 tk",
+        "discount": "15% discount for Bkash payment"
+    },
+    {
+        "id": 1234455,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/716aNbhuD2L.jpg",
+        "book": "Mathematics",
+        "instructor": "Alauddin Khan",
+        "fees": "3500 tk",
+        "discount": "10% discount for Bkash payment"
+    },
+    {
+        "id": 1234634,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91Seu6L+YgL.jpg",
+        "book": "Economics",
+        "instructor": "Ashrafuzzaman ",
+        "fees": "3000 tk",
+        "discount": "20% discount for Bkash payment"
+    },
+    {
+        "id": 1234562346340,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81edum61DLL.jpg",
+        "book": "Biology",
+        "instructor": "Saharul ali ",
+        "fees": "2000 tk",
+        "discount": "5% discount for Bkash payment"
+    },
+    {
+        "id": 1234456786340,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/519TvLjRUdL._SX382_BO1,204,203,200_.jpg",
+        "book": "English grammer",
+        "instructor": "Younus Ali ",
+        "fees": "4200 tk",
+        "discount": "30% discount for Bkash payment"
+    },
+    {
+        "id": 1200348076634,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570324186l/53120215._SX318_SY475_.jpg",
+        "book": "Computer Science",
+        "instructor": "Rassel Hassan ",
+        "fees": "3900 tk",
+        "discount": "20% discount for Bkash payment"
+    },
+    {
+        "id": 76630004,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61u5UsqvkxL.jpg",
+        "book": "Accoutancy",
+        "instructor": "Shuvo Ahmed",
+        "fees": "3600 tk",
+        "discount": "15% discount for Bkash payment"
+    }
+]
